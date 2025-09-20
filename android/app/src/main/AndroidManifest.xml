@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="flutter_application_1"
+=======
+        android:label="lotto"
+>>>>>>> 1ee70e744c734da3eb09ac668b31db5c57cea149
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

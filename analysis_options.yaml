@@ -7,9 +7,12 @@
 
 # The following line activates a set of recommended lints for Flutter apps,
 # packages, and plugins designed to encourage good coding practices.
+<<<<<<< HEAD
 analyzer:
   errors:
     unused_import: ignore
+=======
+>>>>>>> 1ee70e744c734da3eb09ac668b31db5c57cea149
 include: package:flutter_lints/flutter.yaml
 
 linter:

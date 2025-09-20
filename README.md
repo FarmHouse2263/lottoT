@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # flutter_application_1
+=======
+# lotto
+>>>>>>> 1ee70e744c734da3eb09ac668b31db5c57cea149
 
 A new Flutter project.
 

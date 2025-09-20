@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "flutter_application_1",
     "short_name": "flutter_application_1",
+=======
+    "name": "lotto",
+    "short_name": "lotto",
+>>>>>>> 1ee70e744c734da3eb09ac668b31db5c57cea149
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
